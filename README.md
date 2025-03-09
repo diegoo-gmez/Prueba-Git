@@ -2,4 +2,4 @@
 
 Una mini prueva de Git y Github
 
-Actualizacion en GitBash 2024
+Actualizacion en GitBash 2025
